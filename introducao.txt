@@ -1,4 +1,4 @@
 O projeto conta com uma atividade prática do uso do Git e Github.
 
 A partir daqui, será testado a mudança de informações entre as branchs. Valber fazendo alteração.
-Alteração do proprietário. Tentando alterar o arquivo
+Alteração do proprietário. Nova alteração. Agora consigo alterar.
